@@ -1,0 +1,7 @@
+.Spinner {
+  position: fixed;
+  z-index: 9999;
+  top: 50vh;
+  left: 50%;
+  transform: translateX(-50%);
+}
